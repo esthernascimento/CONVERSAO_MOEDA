@@ -29,7 +29,8 @@ h1{
     color: #f0f8ff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 5px ;
+    box-shadow: 0 0 5px;
+    margin: 10px;
 }
 
 form{
