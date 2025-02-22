@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    input, button {
+        font-size: 14px;
+    }
+
+    .resultado {
+        font-size: 14px;
+    }
+}

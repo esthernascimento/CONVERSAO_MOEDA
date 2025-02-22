@@ -4,7 +4,7 @@ function converter(moeda) {
     const resultadoDiv = document.getElementById('resultado');
 
     if (isNaN(valorReais) || valorReais <= 0){
-        resultadoDiv.innerText = "Por favor, digite vaalores válidos e REAIS.";
+        resultadoDiv.innerText = "Por favor, digite valores válidos e REAIS.";
         return;
     }
 
